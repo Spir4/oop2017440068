@@ -1,0 +1,11 @@
+package hw2;
+
+public class Fifteen {
+
+	public static void main(String[] args) {
+		// 1~100 사이의 숫자 하나를 정한 뒤(랜덤으로 생성해도 됨), 10번 이내로 그 숫자를 맞추는 게임을 작성하시오.
+		
+
+	}
+
+}
