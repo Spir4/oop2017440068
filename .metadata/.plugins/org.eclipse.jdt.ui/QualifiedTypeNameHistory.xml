@@ -5,4 +5,10 @@
     <fullyQualifiedTypeName name="bj1.Father"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="javax.sound.midi.Soundbank"/>
+    <fullyQualifiedTypeName name="java.awt.FlowLayout"/>
+    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
+    <fullyQualifiedTypeName name="javax.swing.JPanel"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="MyListener"/>
+    <fullyQualifiedTypeName name="javax.swing.JButton"/>
 </qualifiedTypeNameHistroy>

@@ -1,4 +1,5 @@
-import java.awt.FlowLayout;
+import java.awt.*;
+import java.awt.event.*;
 
 import javax.swing.*;
 
@@ -11,15 +12,17 @@ class MyFrame extends JFrame{
 		JPanel panel = new JPanel();
 		JLabel label = new JLabel("ぞしぞし");
 		JTextField tf = new JTextField(20);
-		this.add(tf);
-		setLayout(new FlowLayout());
 		JButton button = new JButton("獄動");
-		button.setMaximumSize(300,200);
+		
+		button.setText("adsf");
+		
+		setLayout(new FlowLayout());
+		
 		panel.add(label);
 		panel.add(button);
+		panel.add(tf);
 		this.add(panel);
-		
-	
+//		pack();
 		setVisible(true);
 	}
 
