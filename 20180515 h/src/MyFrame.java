@@ -8,6 +8,7 @@ class MyFrame extends JFrame implements ActionListener {
 	JButton button;//모든 메소드에서 접근할 수 있다.
 	JButton btn;
 	JTextField tf;
+	int a,b,c,d;
 	public MyFrame(){
 		setSize(1080,720);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
