@@ -66,14 +66,13 @@ public class Calculator extends JFrame implements ActionListener {
 		
 		setVisible(true);
 	}
- 
     private String NAME; 
     private String String; 
     private int i = 0; 
     private String j = ""; 
     private boolean torf = false; 
     private String air = ""; 
- 
+    
 	@Override
 	public void actionPerformed(ActionEvent e) { 
         
