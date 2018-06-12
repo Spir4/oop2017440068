@@ -14,7 +14,7 @@ public class TestAnimalSing {
 		
 		as.sing();
 		
-		
+			
 	}
 
 }
